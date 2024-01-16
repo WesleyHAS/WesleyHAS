@@ -60,7 +60,11 @@ Feel free to explore my GitHub for a glimpse into my coding journey. I'm always 
 
 ### 🔥 My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=WesleyHAS)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WesleyHAS&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyHAS&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wes GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyHAS&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **WesleyHAS/WesleyHAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
