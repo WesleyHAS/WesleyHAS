@@ -30,7 +30,7 @@ Feel free to explore my GitHub for a glimpse into my coding journey. I'm always 
 
 ---
 
-### 🛠️ Techs and Tools :
+### 🛠️ Techs and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -55,6 +55,12 @@ Feel free to explore my GitHub for a glimpse into my coding journey. I'm always 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" **alt="Tailwind" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
 </div>
+
+---
+
+### 🔥 My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WesleyHAS&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **WesleyHAS/WesleyHAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
